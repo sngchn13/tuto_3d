@@ -1,0 +1,33 @@
+# ─── Godot 4 ───────────────────────────────
+# 에디터 캐시 (자동 재생성됨)
+.godot/
+
+# 내보내기 설정 (서명 키 경로 등 개인 정보 포함)
+export_presets.cfg
+
+# 내보내기 결과물
+/build/
+/export/
+*.exe
+*.pck
+*.apk
+*.aab
+*.dmg
+*.zip
+
+# 컴파일된 번역
+*.translation
+
+# 로그
+logs/
+
+# ─── OS ────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── 에디터 / IDE ──────────────────────────
+.vscode/
+.idea/
+*.swp
+*~
